@@ -1,0 +1,71 @@
+
+.right-div {
+    width: 50%;
+    float: right;
+    text-align: center;
+    height: 500px;
+    display: inline-block;
+}
+
+.left-div{
+    width: 50%;
+    float: left;
+    text-align: center;
+    height: 500px;
+    display: inline-block;
+}
+
+.titles{
+    color: #044DAE;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-left: 75px;
+    width: 75%;
+    text-align: center;
+    display: inline-block;
+}
+    .title-lower{
+        font-size: 23px;
+        padding-left: 15px;
+        margin-left: 75px;
+    }
+    .title-lower-light{
+        font-size: 23px;
+        color: #37B5FE;;
+        text-transform: lowercase;
+    }
+
+
+#socials{
+    float: right;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+}
+    .socialIcons{
+        height: 45px;
+        width: 45px;
+    }
+
+.copyright {
+    padding: 5px 0;
+    margin: 0;
+}
+
+.mike-logo {
+    height: 450px;
+    width: 450px;
+}
+
+.email-logo {
+    height: 350px;
+    width: 350px;
+}
+
+.title-div {
+    display: flex;
+    justify-content: center;
+}
+       
